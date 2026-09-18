@@ -101,6 +101,7 @@ C.R.I.S.P-Execute      → build + gate + report  ← you are here
 ```
 
 All three share `crisp-state.json` as the spine.
+Also if you want to learn more about product drive AI development [Mirko Radeka](https://www.mirkoradeka.com)) 
 
 ---
 
